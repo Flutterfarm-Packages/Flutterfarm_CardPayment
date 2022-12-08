@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutterfarm_bottomnavbar/flutterfarm_bottomnavbar.dart';
+import 'package:credit_card_ui/credit_card_ui.dart';
 
 void main() {
   test('adds one to input values', () {
